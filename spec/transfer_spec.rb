@@ -1,3 +1,5 @@
+require 'pry'
+
 describe 'Transfer' do 
 
   let(:avi) { BankAccount.new("Avi") }
